@@ -1,2 +1,2 @@
 # python_curso_01
-Scripts de curso introductorio de Python 1
+Scripts del curso 1: Introducción a Python
